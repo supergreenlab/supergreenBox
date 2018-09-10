@@ -15,7 +15,19 @@ An assembly manual will soon be available.
 
 # Parts
 
+(STILL UNDERCONSTRUCTION)
 
+The following parts are needed to build the box :
+
+* Doors : 4x 3mm medium, file : "3mm.dxf"
+* Base : 1x 6mm medium, file : "Base.dxf"
+* Bottom plate : 1x 6mm medium, file : "Bot Plate.dxf"
+* Sides : 4x 6mm medium, file : "side.dxf"
+* Technical plate : 1x 6mm medium, file : "TechPlate.dxf"
+* Top cover : 1x 6mm medium, file : "top.dxf" 
+* Wheel attach : 8x 3D print, file : "wheel print.stl"
+
+all components included in BOM file.
 
 # License
 
