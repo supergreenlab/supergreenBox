@@ -26,8 +26,7 @@ The following parts are needed to build the box :
 * Technical plate : 1x 6mm medium, file : "TechPlate.dxf"
 * Top cover : 1x 6mm medium, file : "top.dxf" 
 * Wheel attach : 8x 3D print, file : "wheel print.stl"
-
-all components included in BOM file.
+* all components included in BOM file.
 
 # License
 
