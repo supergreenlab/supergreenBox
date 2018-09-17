@@ -1,10 +1,10 @@
-# supergreenBox
+# SuperGreenBox
 
 ![Box kitchen](assets/box-kitchen.png?raw=true "Box kitchen")
 
-supergreenBox from supergreenlab (https://supergreenlab.com/)
+SuperGreenBox from supergreenlab (https://supergreenlab.com/)
 
-supergreenBox is an open hardware grow box. This design is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License.
+SuperGreenBox is an open hardware grow box. This design is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License.
 
 Pull requests of relevant issues are warmly welcomed.
 
@@ -13,7 +13,7 @@ Pull requests of relevant issues are warmly welcomed.
 ![Box cut](assets/box-cut.png?raw=true "Box cut")
 *the pics above are not the final version*
 
-supergreenBox is a grow box designed to maximize g/w using a vertical scrog technique. In order to facilitate the plant care, the box has 4 doors maintained in place using magnets. The box is built on wheels, has 2 inlets for standrd 80mm fans, an outlet for standard 120mm blower and mounts for leds and scrog.
+SuperGreenBox is a grow box designed to maximize g/w using a vertical scrog technique. In order to facilitate the plant care, the box has 4 doors maintained in place using magnets. The box is built on wheels, has 2 inlets for standrd 80mm fans, an outlet for standard 120mm blower and mounts for leds and scrog.
 
 The box is built using standard 6mm and 3mm MDF cut using a laser cutter, some 3D printed parts (about 1h print/box), and various parts easily orderable on amazon, aliexpress ect.. The assembly is made using mostly M4 threaded metal screws and nuts.
 
