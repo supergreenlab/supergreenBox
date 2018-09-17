@@ -25,6 +25,7 @@ An assembly manual will soon be available.
 
 The following parts are needed to build the box :
 
+* [SuperGreenDriver](https://github.com/supergreenlab/SuperGreenDriver) + [SuperGreenLights](https://github.com/supergreenlab/SuperGreenLed-561C)
 * Doors : 4x 3mm medium, file : "3mm.dxf"
 * Base : 1x 6mm medium, file : "Base.dxf"
 * Bottom plate : 1x 6mm medium, file : "Bot Plate.dxf"
