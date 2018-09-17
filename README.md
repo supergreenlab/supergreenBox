@@ -2,7 +2,7 @@
 
 ![Box kitchen](assets/box-kitchen.png?raw=true "Box kitchen")
 
-SuperGreenBox from supergreenlab (https://supergreenlab.com/)
+SuperGreenBox from [SuperGreenLab](https://supergreenlab.com/)
 
 SuperGreenBox is an open hardware grow box. This design is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License.
 
