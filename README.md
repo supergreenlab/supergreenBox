@@ -1,3 +1,5 @@
+![SuperGreenLab](assets/sgl.png?raw=true "SuperGreenLab")
+
 # SuperGreenBox
 
 ![Box kitchen](assets/box-kitchen.png?raw=true "Box kitchen")
