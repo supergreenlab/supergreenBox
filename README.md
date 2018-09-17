@@ -23,7 +23,7 @@ An assembly manual will soon be available.
 
 # Parts
 
-(STILL UNDERCONSTRUCTION)
+(STILL UNDER CONSTRUCTION)
 
 The following parts are needed to build the box :
 
