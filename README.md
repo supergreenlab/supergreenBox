@@ -21,7 +21,8 @@ SuperGreenBox is a grow box designed to maximize g/w using a vertical scrog tech
 
 The box is built using standard 6mm and 3mm MDF cut using a laser cutter, some 3D printed parts (about 1h print/box), and various parts easily orderable on amazon, aliexpress ect.. The assembly is made using mostly M4 threaded metal screws and nuts.
 
-An assembly manual will soon be available.
+<del>An assembly manual will soon be available.</del>
+Not currently working on it, but willing to do it one day.
 
 # Parts
 
